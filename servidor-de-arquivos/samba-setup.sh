@@ -1,3 +1,4 @@
+#!/bin/bash
 
 FOLDER_NAME=/shared-folder
 
