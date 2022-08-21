@@ -1,5 +1,8 @@
 #!/bin/bash
 
+apt-get update
+apt-get upgrade -y
+
 apt install apache2 -y
 
 # Para checar o status pode ser usado o comando abaixo
